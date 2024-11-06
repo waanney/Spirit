@@ -1,5 +1,5 @@
 if(place_meeting(x, y, oRoomGoTo_maze1)){
-	room_goto(rm_minigame1_maze);
+	room_goto(r_maze1);
 	
 	
 	oHenry_player.x = 16;

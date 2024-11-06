@@ -35,5 +35,5 @@
     "name":"sp_flowerwall",
     "path":"sprites/sp_flowerwall/sp_flowerwall.yy",
   },
-  "visible":true,
+  "visible":false,
 }
