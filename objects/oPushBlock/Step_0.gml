@@ -41,7 +41,7 @@ y += yspd;
 //done with sliding
 if xspd == 0 && yspd == 0
 {
-	sliding = false;
+	sliding = false; 
 }
 
 //depth

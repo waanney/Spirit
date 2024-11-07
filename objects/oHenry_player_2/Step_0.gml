@@ -11,7 +11,7 @@ keyItem = keyboard_check_pressed(vk_control);
 	xspd = (keyRight - keyLeft) * moveSpd;
 	yspd = (keyDown - keyUp) * moveSpd;
 	//set sprites
-	mark_index = sprite[3];
+	mask_index = sprite[3];
 	if yspd == 0
 	{
 		if xspd > 0 {face = 0;}

@@ -4,7 +4,7 @@ moveSpd = 3;
 faceDir = 0;
 
 //how far we need to move
-gridSpace = 32;
+gridSpace = 64;
 startPointx = x;
 startPointy = y;
 targetX = x;

@@ -1,11 +1,11 @@
 {
   "$GMSprite":"",
   "%Name":"sp_Henry_up",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":119,
   "bbox_left":53,
   "bbox_right":66,
-  "bbox_top":88,
+  "bbox_top":102,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
