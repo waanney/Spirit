@@ -1,6 +1,6 @@
 {
   "$GMObject":"",
-  "%Name":"oHenry_player",
+  "%Name":"oHenry_player_2",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
@@ -10,14 +10,15 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"oRoomGoTo_street","path":"objects/oRoomGoTo_street/oRoomGoTo_street.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"oRoomGoTo_maze1","path":"objects/oRoomGoTo_maze1/oRoomGoTo_maze1.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"oRoomGoTo_computer1","path":"objects/oRoomGoTo_computer1/oRoomGoTo_computer1.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oHenry_player",
+  "name":"oHenry_player_2",
   "overriddenProperties":[],
   "parent":{
-    "name":"characters",
-    "path":"folders/Objects/characters.yy",
+    "name":"Blockpushing",
+    "path":"folders/Rooms/Blockpushing.yy",
   },
   "parentObjectId":{
     "name":"oPause",
