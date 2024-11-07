@@ -38,6 +38,7 @@
     {"name":"inst_7DF1F99","path":"rooms/r_maze1/r_maze1.yy",},
     {"name":"inst_3455BF76","path":"rooms/r_maze1/r_maze1.yy",},
     {"name":"inst_531C16A5","path":"rooms/r_maze1/r_maze1.yy",},
+    {"name":"inst_1EFE9C5C","path":"rooms/r_maze1/r_maze1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -74,6 +75,7 @@
         {"$GMRInstance":"v1","%Name":"inst_7DF1F99","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7DF1F99","objectId":{"name":"oWall","path":"objects/oWall/oWall.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":5.25,"scaleY":0.75,"x":48.0,"y":720.0,},
         {"$GMRInstance":"v1","%Name":"inst_3455BF76","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3455BF76","objectId":{"name":"oWall","path":"objects/oWall/oWall.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":8.25,"scaleY":0.75,"x":480.0,"y":720.0,},
         {"$GMRInstance":"v1","%Name":"inst_531C16A5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_531C16A5","objectId":{"name":"oHenry_player","path":"objects/oHenry_player/oHenry_player.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.5,"scaleY":1.5,"x":432.0,"y":672.0,},
+        {"$GMRInstance":"v1","%Name":"inst_1EFE9C5C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1EFE9C5C","objectId":{"name":"oRoomGoTo_School","path":"objects/oRoomGoTo_School/oRoomGoTo_School.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":0.25,"x":864.0,"y":0.0,},
       ],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"Tiles_2","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tiles_2","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":16,"SerialiseWidth":22,"TileCompressedData":[
           -18,1,1,3,-4,1,-7,2,1,1,-3,2,1,26,-4,2,7,1,3,1,22,1,1,3,-3,1,-3,3,1,18,-8,3,12,1,3,1,3,1,1,3,2,18,1,
