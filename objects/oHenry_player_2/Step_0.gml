@@ -29,11 +29,11 @@ keyItem = keyboard_check_pressed(vk_control);
 	sprite_index = sprite[face];
 	
 	//collisions
-	if place_meeting(x + xspd, y, oWall)
+	if place_meeting(x + xspd, y, o_wall)
 	{
 		xspd = 0;
 	}
-	if place_meeting(x, y + yspd, oWall)
+	if place_meeting(x, y + yspd, o_wall)
 	{
 		yspd = 0;
 	}

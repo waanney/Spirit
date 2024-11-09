@@ -1,7 +1,7 @@
 {
   "$GMSprite":"",
   "%Name":"sp_Henry_right",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":119,
   "bbox_left":55,
   "bbox_right":76,

@@ -13,8 +13,8 @@
     "path":"folders/Rooms/Blockpushing.yy",
   },
   "parentObjectId":{
-    "name":"oWall",
-    "path":"objects/oWall/oWall.yy",
+    "name":"o_wall",
+    "path":"objects/o_wall/o_wall.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
