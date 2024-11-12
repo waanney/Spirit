@@ -45,13 +45,6 @@ else
 // pause the game
 event_inherited();
 
-if(place_meeting(x,y,oRoomGoTo_Home)){
-	
-	roomcount =+ 1;
-	if(roomcount == 2){
-		instance_destroy(oRoomGoTo_street);
-	};
 
-};
 
 
