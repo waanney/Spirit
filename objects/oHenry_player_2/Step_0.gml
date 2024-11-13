@@ -63,3 +63,4 @@ if keyActivate == true
 	} 
 }
 
+instance_destroy(oHenry_player);

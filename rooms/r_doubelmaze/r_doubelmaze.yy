@@ -26,7 +26,7 @@
   "name":"r_doubelmaze",
   "parent":{
     "name":"mazes",
-    "path":"folders/Rooms/mazes.yy",
+    "path":"folders/minigame/mazes.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

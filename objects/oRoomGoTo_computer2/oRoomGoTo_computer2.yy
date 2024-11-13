@@ -6,8 +6,8 @@
   "name":"oRoomGoTo_computer2",
   "overriddenProperties":[],
   "parent":{
-    "name":"manager",
-    "path":"folders/Objects/manager.yy",
+    "name":"Computer_",
+    "path":"folders/Objects/manager/Computer_.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -12,12 +12,11 @@ var _yinput = keyDown - keyUp;
 
 
 
+
 move_and_collide(_xinput * speedWalk, _yinput * speedWalk, oWall);
 
 
-
 // Animation movement
-
 if( keyboard_check(vk_left) || keyboard_check(ord("A")))
 {
 	sprite_index = sp_Henry_left ;
@@ -41,6 +40,7 @@ else
 {
 	sprite_index = sp_Henry_stand;
 }
+
 
 // pause the game
 event_inherited();

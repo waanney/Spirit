@@ -6,8 +6,8 @@
   "name":"oRoomGoto_flappybean",
   "overriddenProperties":[],
   "parent":{
-    "name":"manager",
-    "path":"folders/Objects/manager.yy",
+    "name":"Minigame_",
+    "path":"folders/Objects/manager/Minigame_.yy",
   },
   "parentObjectId":null,
   "persistent":false,

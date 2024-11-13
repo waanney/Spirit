@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"Blockpushing",
-    "path":"folders/Rooms/Blockpushing.yy",
+    "path":"folders/minigame/Blockpushing.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

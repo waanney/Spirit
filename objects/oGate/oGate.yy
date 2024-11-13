@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Blockpushing",
-    "path":"folders/Rooms/Blockpushing.yy",
+    "path":"folders/minigame/Blockpushing.yy",
   },
   "parentObjectId":{
     "name":"o_wall",

@@ -1,4 +1,4 @@
-if room = rm_home or room = rm_street or room = rm_school or room = rm_playground
+if room = rm_home1 or room = rm_street or room = rm_school1 or room = rm_home2
 
 {
 

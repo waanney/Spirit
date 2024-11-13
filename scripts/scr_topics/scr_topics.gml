@@ -41,4 +41,13 @@ global.topics[$ "quote2"] = [
 	
 ];
 
+global.topics[$ "quote3"] = [
+	
+	TEXT("..."),
+	TEXT("Ôi chết mình lỡ va vào người ta rồi? Họ có sao không ta."),
+	TEXT("họ có nghĩ mình là người thiếu lịch sự hay là tức giận với mình không? "),
+	TEXT("Mình thấy có lỗi quá :(("),
+	
+];
+
 
