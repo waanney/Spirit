@@ -50,4 +50,13 @@ global.topics[$ "quote3"] = [
 	
 ];
 
+global.topics[$ "quote4"] = [
+	
+	TEXT("..."),
+	TEXT("Không biết có chuyện gì đã xảy ra giữa hai bạn ấy nhỉ?"),
+	TEXT(" Mình có nên đứng ra làm người hoà giải không nhỉ? "),
+	TEXT("Liệu sau này cả lớp còn hoà hợp với nhau không nhỉ?”"),
+	
+];
+
 

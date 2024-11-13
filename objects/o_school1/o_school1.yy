@@ -1,15 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"oRoomGoTo_Home2",
+  "%Name":"o_school1",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"oHenry_player","path":"objects/oHenry_player/oHenry_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":32,"eventType":5,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":88,"eventType":5,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oRoomGoTo_Home2",
+  "name":"o_school1",
   "overriddenProperties":[],
   "parent":{
-    "name":"Home_",
-    "path":"folders/Objects/manager/Home_.yy",
+    "name":"Dialogue system",
+    "path":"folders/Dialogue system.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"sp_flowerwall",
-    "path":"sprites/sp_flowerwall/sp_flowerwall.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

@@ -1,0 +1,1 @@
+startDialogue("quote4");

@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"oRoomGoTo_Home2",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"oHenry_player","path":"objects/oHenry_player/oHenry_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"oRoomGoTo_computer3",
+  "eventList":[],
   "managed":true,
-  "name":"oRoomGoTo_Home2",
+  "name":"oRoomGoTo_computer3",
   "overriddenProperties":[],
   "parent":{
-    "name":"Home_",
-    "path":"folders/Objects/manager/Home_.yy",
+    "name":"Computer_",
+    "path":"folders/Objects/manager/Computer_.yy",
   },
   "parentObjectId":null,
   "persistent":false,

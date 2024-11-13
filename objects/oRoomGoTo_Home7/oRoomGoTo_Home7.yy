@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oRoomGoTo_Home2",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"oHenry_player","path":"objects/oHenry_player/oHenry_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"oRoomGoTo_Home7",
+  "eventList":[],
   "managed":true,
-  "name":"oRoomGoTo_Home2",
+  "name":"oRoomGoTo_Home7",
   "overriddenProperties":[],
   "parent":{
     "name":"Home_",
@@ -28,7 +26,7 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
     "name":"sp_flowerwall",
     "path":"sprites/sp_flowerwall/sp_flowerwall.yy",

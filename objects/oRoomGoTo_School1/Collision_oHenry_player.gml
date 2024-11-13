@@ -6,4 +6,3 @@
 	oHenry_player.image_xscale = 3.3;
 	instance_destroy(oRoomGoTo_School1);
 
-
