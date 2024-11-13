@@ -126,6 +126,7 @@
     {"id":{"name":"rm_computer_3","path":"rooms/rm_computer_3/rm_computer_3.yy",},},
     {"id":{"name":"rm_demo","path":"rooms/rm_demo/rm_demo.yy",},},
     {"id":{"name":"rm_flappybean","path":"rooms/rm_flappybean/rm_flappybean.yy",},},
+    {"id":{"name":"rm_Help","path":"rooms/rm_Help/rm_Help.yy",},},
     {"id":{"name":"rm_home1","path":"rooms/rm_home1/rm_home1.yy",},},
     {"id":{"name":"rm_home2","path":"rooms/rm_home2/rm_home2.yy",},},
     {"id":{"name":"rm_home3","path":"rooms/rm_home3/rm_home3.yy",},},
@@ -160,6 +161,7 @@
     {"id":{"name":"sp_computer_1","path":"sprites/sp_computer_1/sp_computer_1.yy",},},
     {"id":{"name":"sp_flowerwall","path":"sprites/sp_flowerwall/sp_flowerwall.yy",},},
     {"id":{"name":"sp_flyup","path":"sprites/sp_flyup/sp_flyup.yy",},},
+    {"id":{"name":"sp_help","path":"sprites/sp_help/sp_help.yy",},},
     {"id":{"name":"sp_Henry_animation","path":"sprites/sp_Henry_animation/sp_Henry_animation.yy",},},
     {"id":{"name":"sp_Henry_down","path":"sprites/sp_Henry_down/sp_Henry_down.yy",},},
     {"id":{"name":"sp_Henry_left","path":"sprites/sp_Henry_left/sp_Henry_left.yy",},},
@@ -225,6 +227,7 @@
     {"roomId":{"name":"rm_computer_3","path":"rooms/rm_computer_3/rm_computer_3.yy",},},
     {"roomId":{"name":"r_hall3","path":"rooms/r_hall3/r_hall3.yy",},},
     {"roomId":{"name":"rm_home7","path":"rooms/rm_home7/rm_home7.yy",},},
+    {"roomId":{"name":"rm_Help","path":"rooms/rm_Help/rm_Help.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
