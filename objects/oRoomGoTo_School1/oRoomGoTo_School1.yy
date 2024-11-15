@@ -8,8 +8,8 @@
   "name":"oRoomGoTo_School1",
   "overriddenProperties":[],
   "parent":{
-    "name":"manager",
-    "path":"folders/Objects/manager.yy",
+    "name":"School_",
+    "path":"folders/Objects/manager/School_.yy",
   },
   "parentObjectId":null,
   "persistent":true,

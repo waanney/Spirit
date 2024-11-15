@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"oRoomGoTo_Park",
-  "eventList":[],
+  "%Name":"oRoomGoto_blockp",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"oHenry_player","path":"objects/oHenry_player/oHenry_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"oRoomGoTo_Park",
+  "name":"oRoomGoto_blockp",
   "overriddenProperties":[],
   "parent":{
-    "name":"manager",
-    "path":"folders/Objects/manager.yy",
+    "name":"Minigame_",
+    "path":"folders/Objects/manager/Minigame_.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -19,8 +19,8 @@
   ],
   "name":"rm_school2",
   "parent":{
-    "name":"background",
-    "path":"folders/Rooms/background.yy",
+    "name":"School",
+    "path":"folders/Rooms/background/School.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
