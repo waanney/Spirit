@@ -3,7 +3,6 @@
   "%Name":"oWall",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"oHenry_player","path":"objects/oHenry_player/oHenry_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"aslafafsd","path":"objects/aslafafsd/aslafafsd.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"oWall",
