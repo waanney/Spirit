@@ -1,19 +1,19 @@
 global.topics = {};
 
 global.topics[$ "quote1"] = [
-	SPEAKER("Mom", NPC1_focus, PORTRAIT_SIDE.RIGHT),
+	SPEAKER("Mẹ", NPC1_focus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Này, Sáng Rồi Đấy, Mau Dậy Đi Học Đi"),
 	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Cho Con Thêm 5 Phút Nữa Đi"),
-	SPEAKER("Mom", NPC1_focus, PORTRAIT_SIDE.RIGHT),
+	SPEAKER("Mẹ", NPC1_focus, PORTRAIT_SIDE.RIGHT),
 	TEXT("5 Phút Cái Gì, Mau Đi Học Không Tao Vô Đánh Đấy"),
-	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
+	SPEAKER("Henry", sp_HenrySad, PORTRAIT_SIDE.RIGHT),
 	TEXT("..."),
-	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
+	SPEAKER("Henry", sp_HenrySad, PORTRAIT_SIDE.RIGHT),
 	TEXT("Con Biết Rồi"),
 	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
 	TEXT("*Lại Phải Đi Học Rồi, Mình Ghét Đi Học*"),
-	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
+	SPEAKER("Henry", sp_HenrySad, PORTRAIT_SIDE.RIGHT),
 	TEXT("*Ở Đó Ai Cũng Ghét Mình...*"),
 	
 	TEXT("Dùng phím mũi tên hoặc A,W,S,D để di chuyển"),
@@ -24,7 +24,7 @@ global.topics[$ "quote1"] = [
 
 
 global.topics[$ "quote2"] = [
-	
+	SPEAKER("Cô",),
 	TEXT("Cô Phát Điểm Quiz Nha Mấy Đứa"),
 	TEXT("Henry Chú ý Học Lại Nha Em"),
 	TEXT("Dạ vâng ạ"),

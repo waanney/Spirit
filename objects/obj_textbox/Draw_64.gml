@@ -1,7 +1,7 @@
 
 
 // draw the box
-draw_sprite_stretched(sprite_index, 0, x, y, width, height);
+draw_sprite_stretched(sprite_index, 0, x-10, y, width, height);
 
 
 var draw_text_x = x;
@@ -17,7 +17,8 @@ if (sprite_exists(portrait_sprite)){
 	
 	var draw_portrait_x = x + portrait_x + 50;
 	var draw_portrait_y = y + portrait_y + 50;
-	var draw_portrait_xscale = 1;
+	var draw_portrait_xscale = 100;
+	var draw_portrait_yscale = 100;
 	
 	// what side is the portrait on?
 	
@@ -35,12 +36,12 @@ if (sprite_exists(portrait_sprite)){
 	
 	
 	var subimg = 0;
-	if(!finished){
+	if(finished){
 		subimg = (text_progress / text_speed) * (sprite_get_speed(portrait_sprite) / game_get_speed(gamespeed_fps));
 	
-	draw_sprite_ext(portrait_sprite, subimg,
-					draw_portrait_x + portrait_width /2, draw_portrait_y + portrait_height / 2,
-					draw_portrait_xscale, 1, 0, c_white, 1);
+	draw_sprite_ext(portrait_sprite, subimg + 10,
+					draw_portrait_x + portrait_width /2 - 50,50+ draw_portrait_y + portrait_height / 2,
+					2, 2, 0, c_white, 1);
 	
 	}
 	
@@ -69,6 +70,3 @@ draw_set_font(text_font);
 draw_set_color(text_color);
 
 type(draw_text_x + text_x, draw_text_y + text_y, text, text_progress, draw_text_width);
-
- 
- 

@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"o_school2",
+  "%Name":"o_topic3",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":32,"eventType":5,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":88,"eventType":5,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"oHenry_player","path":"objects/oHenry_player/oHenry_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"o_school2",
+  "name":"o_topic3",
   "overriddenProperties":[],
   "parent":{
     "name":"topics",
@@ -29,8 +29,11 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
-  "spriteId":null,
+  "solid":true,
+  "spriteId":{
+    "name":"passer_bystanding",
+    "path":"sprites/passer_bystanding/passer_bystanding.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

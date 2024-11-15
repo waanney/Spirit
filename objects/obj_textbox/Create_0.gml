@@ -24,8 +24,8 @@ text_y = 50 ;
 text_width = width - padding * 2;
 
 //portrait
-portrait_x = 50;
-portrait_y = 50;
+portrait_x = 10;
+portrait_y = 10 ;
 // speaker
 
 speaker_x = padding;
@@ -46,8 +46,8 @@ text_length = 0;
 
 
 portrait_sprite = -1;
-portrait_width = sprite_get_width(NPC1_focus);
-portrait_height = sprite_get_height(NPC1_focus);
+portrait_width = sprite_get_width(sp_henryfocus)+ 50;
+portrait_height = sprite_get_height(sp_henryfocus) + 50;
 portrait_side = PORTRAIT_SIDE.LEFT;
 
 enum PORTRAIT_SIDE {
