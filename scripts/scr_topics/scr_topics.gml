@@ -25,19 +25,20 @@ global.topics[$ "quote1"] = [
 
 global.topics[$ "quote2"] = [
 	
+	TEXT("Cô phát điểm quiz nha mấy đứa"),
+	TEXT("Henry chú ý học lại nha em"),
+	TEXT("Lần này mình bị điểm thấp quá"),
+	TEXT("Có phải mình ham chơi quá nên học tập bị kém đi không?"),
+	TEXT("Bạn bè trong lớp có chê cười mình không"),
+	TEXT("Hay mình thật sự không có năng lực"),
+	TEXT("Cô hỏi em một câu để em lấy điểm cộng bù vô nha"),
 	TEXT("..."),
-	TEXT("Có Ai Biết Đáp Án Của Câu 20 Không?"),
-	TEXT("Không Thì Cô Gọi Bất Kỳ Nhé?"),
-	TEXT("..."),
-	TEXT("Thế Thì Mời Henry Nhé!"),
-	TEXT("!!!!"),
-	TEXT("*...*"),
-	TEXT("Em Không Biết Ạ"),
-	TEXT("*Cười*"),
-	TEXT("*Tại Sao Mình Lại Dỡ Như Thế*"),
+	TEXT("Vâng ạ"),
+	TEXT("Em trả lời câu 20 cho cô nha"),
 	TEXT("*Sao Mọi Người Lại Cười Mình*"),
-	TEXT("*Mình Tệ Đến Thế Sao*"),
-	TEXT("*Có Lẽ Chẳng Ai Cần Mình Giúp Đỡ Cả*"),
+	TEXT("..."),
+	TEXT("Em không biết ạ"),
+	TEXT("*cười*"),
 	
 ];
 
@@ -45,18 +46,33 @@ global.topics[$ "quote3"] = [
 	
 	TEXT("..."),
 	TEXT("Ôi chết mình lỡ va vào người ta rồi? Họ có sao không ta."),
-	TEXT("họ có nghĩ mình là người thiếu lịch sự hay là tức giận với mình không? "),
-	TEXT("Mình thấy có lỗi quá :(("),
+	TEXT("Em xin lỗi anh"),
+	TEXT("Đi không biết nhìn đường à, mắt để dưới chân à"),
+	TEXT("Em xin lỗi, em xin lỗi"),
+	TEXT("Người ta nổi giận với mình rồi. "),
+	TEXT("Chết dỡ, làm sao để người ta hạ giận đây"),
+	TEXT("Mình ghét bản thân mình"),
+	TEXT("Sao lại không chú ý hơn vậy?"),
+	TEXT("Ngu quá"),
 	
 ];
 
 global.topics[$ "quote4"] = [
 	
-	TEXT("..."),
-	TEXT("Không biết có chuyện gì đã xảy ra giữa hai bạn ấy nhỉ?"),
-	TEXT(" Mình có nên đứng ra làm người hoà giải không nhỉ? "),
-	TEXT("Liệu sau này cả lớp còn hoà hợp với nhau không nhỉ?”"),
+	TEXT("Mày rảnh lắm à"),
+	TEXT("Sao cứ xía vào chuyện của người khác vậy"),
+	TEXT("Tao chỉ góp ý cho mày cải thiện thôi"),
+	TEXT("Sao mày chửi tao"),
+	TEXT("Không biết có chuyện gì đã xảy ra giữa hai bạn ấy nhỉ"),
+	TEXT("Mình có nên đứng ra làm người hòa giải không nhỉ"),
+	TEXT("Liệu sau này cả lớp còn hòa hợp với nhau không nhỉ"),
 	
 ];
 
+
+global.topics[$ "quote5"] = [
+	TEXT(""),
+
+
+]
 
