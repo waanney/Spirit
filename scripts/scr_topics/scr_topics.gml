@@ -98,12 +98,25 @@ global.topics[$ "quote6"] = [
 ];
 
 global.topics[$ "quote7"] = [
+	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Mai là thuyết trình rồi. Dù chuẩn bị đủ rồi nhưng mình vẫn hồi hộp quá."),
+	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Không biết mai máy tính có hư đột ngột không."),
+	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
 	TEXT(" Liệu mình có bị quên nội dung giữa chừng không.”"),
+	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Có khi nào bài powerpoint của mình bị lỗi ở đâu không ?"),
+	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Nếu gặp câu hỏi khó thì mình phải làm gì đây?"),
+	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Nếu không làm tốt thì mọi người có chê mình không? ”"),
+];
+
+global.topics[$ "quote7_1"] = [
+	TEXT("Sao Khi Thuyết Trình"),
+	TEXT("Mọi người vỗ tay tán thưởng"),
+	SPEAKER("Henry", sp_Henryhappy, PORTRAIT_SIDE.RIGHT),
+	TEXT("Cảm Ơn mọi người nhiều lắm. Cảm ơn mọi người"),
 ];
 
 

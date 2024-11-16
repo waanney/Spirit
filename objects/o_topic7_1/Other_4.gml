@@ -1,0 +1,1 @@
+startDialogue("quote7_1");
