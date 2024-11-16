@@ -49,7 +49,7 @@ global.topics[$ "quote3"] = [
 	TEXT("Ôi chết mình lỡ va vào người ta rồi? Họ có sao không ta."),
 	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Em xin lỗi anh"),
-	SPEAKER("Henry",passer_by_Focus , PORTRAIT_SIDE.RIGHT),
+	SPEAKER("passer-by",passer_by_Focus , PORTRAIT_SIDE.RIGHT),
 	TEXT("Đi không biết nhìn đường à, mắt để dưới chân à"),
 	SPEAKER("Henry", sp_HenrySad, PORTRAIT_SIDE.RIGHT),
 	TEXT("Em xin lỗi, em xin lỗi"),
@@ -67,13 +67,19 @@ global.topics[$ "quote3"] = [
 ];
 
 global.topics[$ "quote4"] = [
-	
+	SPEAKER("Max", Friend1focus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Mày rảnh lắm à"),
+	SPEAKER("Max", Friend1focus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Sao cứ xía vào chuyện của người khác vậy"),
+	SPEAKER("John", Friend2focus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Tao chỉ góp ý cho mày cải thiện thôi"),
+	SPEAKER("John", Friend2focus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Sao mày chửi tao"),
+	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Không biết có chuyện gì đã xảy ra giữa hai bạn ấy nhỉ"),
+	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Mình có nên đứng ra làm người hòa giải không nhỉ"),
+	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Liệu sau này cả lớp còn hòa hợp với nhau không nhỉ"),
 	
 ];
@@ -101,36 +107,32 @@ global.topics[$ "quote7"] = [
 ];
 
 
-global.topics[$ "quote7"] = [
+global.topics[$ "quote8"] = [
 	TEXT("Trên tin tức nhiều thông tin về bão lũ nguy hiểm quá. "),
 	TEXT("Mình sợ bản thân mình sẽ gặp nguy hiểm khi ra đường vào thời tiết xấu. "),
 	TEXT("Mặc dù đã xem dự báo thời tiết nhưng mình vẫn lo lắng quá.”"),
 ];
 
 
-global.topics[$ "quote8"] = [
+global.topics[$ "quote9"] = [
+	SPEAKER("Henry", sp_Henryhappy, PORTRAIT_SIDE.RIGHT),
 	TEXT("Hôm bữa mới thấy anh kia chạy con Mẹc nhìn ngầu lắm mày"),
+	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Ước gì tao cũng giàu như ảnh"),
+	SPEAKER("Max", Friend1focus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Tao cũng muốn thành người giàu."),
+	SPEAKER("Max", Friend1focus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Tao mà không chơi với mày thì chắc giờ tao giàu rồi. =) "),
+	SPEAKER("Max", Friend1focus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Nó nói thế nghĩa là gì nhỉ? "),
-	TEXT("Tao cũng muốn thành người giàu."),
+	SPEAKER("Henry", sp_HenrySad, PORTRAIT_SIDE.RIGHT),
 	TEXT("Liệu mình có làm gì sai khiến nó buồn không? "),
+	SPEAKER("Henry", sp_HenrySad, PORTRAIT_SIDE.RIGHT),
 	TEXT("Mình có đang kéo nó xuống? Hay là nó đang đùa? "),
 	
 ];
 
-global.topics[$ "quote9"] = [
-	TEXT("Hello, nay tui thấy bà có vẻ không vui. Có chuyện gì vậy ?"),
-	TEXT("30 phút sau"),
-	TEXT("Sao bạn ấy không trả lời tin nhắn của mình vậy ta?"),
-	TEXT("Mình có làm phiền người ta không ?"),
-	TEXT(" Mình có nói gì sai làm bạn đó buồn hay là bạn đó ghét mình ? "),
-	TEXT("Mai có nên xin lỗi không ?"),
-	TEXT("Nhỡ không phải lỗi của mình mà mình xin lỗi thì có kì không ?"),
-	TEXT("Hay mình bị ghost rồi ?"),
-	
-];
+
 
 
 
