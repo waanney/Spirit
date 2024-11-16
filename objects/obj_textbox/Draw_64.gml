@@ -41,7 +41,7 @@ if (sprite_exists(portrait_sprite)){
 	
 	draw_sprite_ext(portrait_sprite, subimg + 10,
 					draw_portrait_x + portrait_width /2 - 50,50+ draw_portrait_y + portrait_height / 2,
-					2, 2, 0, c_white, 1);
+					3, 3, 0, c_white, 1);
 	
 	}
 	
