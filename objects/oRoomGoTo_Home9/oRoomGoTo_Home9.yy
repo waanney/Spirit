@@ -3,6 +3,7 @@
   "%Name":"oRoomGoTo_Home9",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"oHenry_player","path":"objects/oHenry_player/oHenry_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"platform_character","path":"objects/platform_character/platform_character.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"oRoomGoTo_Home9",
