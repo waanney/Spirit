@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"oRoomGoto_flappybean",
+  "%Name":"oRoomGoTo_endingroom",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"oHenry_player","path":"objects/oHenry_player/oHenry_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oRoomGoto_flappybean",
+  "name":"oRoomGoTo_endingroom",
   "overriddenProperties":[],
   "parent":{
-    "name":"Minigame_",
-    "path":"folders/Objects/manager/Minigame_.yy",
+    "name":"manager",
+    "path":"folders/Objects/manager.yy",
   },
   "parentObjectId":null,
   "persistent":false,

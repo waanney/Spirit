@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"oRoomGoto_flappybean",
+  "%Name":"Mom",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"oHenry_player","path":"objects/oHenry_player/oHenry_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oRoomGoto_flappybean",
+  "name":"Mom",
   "overriddenProperties":[],
   "parent":{
-    "name":"Minigame_",
-    "path":"folders/Objects/manager/Minigame_.yy",
+    "name":"characters",
+    "path":"folders/Objects/characters.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,11 +28,11 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"sp_flowerwall",
-    "path":"sprites/sp_flowerwall/sp_flowerwall.yy",
+    "name":"NPC1_standing",
+    "path":"sprites/NPC1_standing/NPC1_standing.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }
