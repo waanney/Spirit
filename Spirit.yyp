@@ -297,6 +297,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"rm_home7","path":"rooms/rm_home7/rm_home7.yy",},},
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"rm_home1","path":"rooms/rm_home1/rm_home1.yy",},},
     {"roomId":{"name":"rm_school1","path":"rooms/rm_school1/rm_school1.yy",},},
@@ -316,7 +317,6 @@
     {"roomId":{"name":"rm_computer_3","path":"rooms/rm_computer_3/rm_computer_3.yy",},},
     {"roomId":{"name":"r_hall3","path":"rooms/r_hall3/r_hall3.yy",},},
     {"roomId":{"name":"r_doubelmaze","path":"rooms/r_doubelmaze/r_doubelmaze.yy",},},
-    {"roomId":{"name":"rm_home7","path":"rooms/rm_home7/rm_home7.yy",},},
     {"roomId":{"name":"rm_playground","path":"rooms/rm_playground/rm_playground.yy",},},
     {"roomId":{"name":"rm_home8","path":"rooms/rm_home8/rm_home8.yy",},},
     {"roomId":{"name":"rm_computer_4","path":"rooms/rm_computer_4/rm_computer_4.yy",},},
