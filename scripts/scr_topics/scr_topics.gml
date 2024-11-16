@@ -1,11 +1,11 @@
 global.topics = {};
 
 global.topics[$ "quote1"] = [
-	SPEAKER("Mẹ", NPC1_focus, PORTRAIT_SIDE.RIGHT),
+	SPEAKER("U", NPC1_focus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Này, Sáng Rồi Đấy, Mau Dậy Đi Học Đi"),
 	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Cho Con Thêm 5 Phút Nữa Đi"),
-	SPEAKER("Mẹ", NPC1_focus, PORTRAIT_SIDE.RIGHT),
+	SPEAKER("U", NPC1_focus, PORTRAIT_SIDE.RIGHT),
 	TEXT("5 Phút Cái Gì, Mau Đi Học Không Tao Vô Đánh Đấy"),
 	SPEAKER("Henry", sp_HenrySad, PORTRAIT_SIDE.RIGHT),
 	TEXT("..."),
@@ -24,29 +24,44 @@ global.topics[$ "quote1"] = [
 
 
 global.topics[$ "quote2"] = [
-	SPEAKER("Cô",),
+	SPEAKER("Cô",TC_focus,PORTRAIT_SIDE.RIGHT),
 	TEXT("Cô Phát Điểm Quiz Nha Mấy Đứa"),
+	SPEAKER("Cô",TC_focus,PORTRAIT_SIDE.RIGHT),
 	TEXT("Henry Chú ý Học Lại Nha Em"),
+	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Dạ vâng ạ"),
+	SPEAKER("Henry", sp_HenrySad, PORTRAIT_SIDE.RIGHT),
 	TEXT("*Lần Này Mình Bị Điểm Thấp Quá*"),
+	SPEAKER("Henry", sp_HenrySad, PORTRAIT_SIDE.RIGHT),
 	TEXT("*Có Phải Mình ham chơi quá nên học tập bị kém đi không?*"),
+	SPEAKER("Henry", sp_HenrySad, PORTRAIT_SIDE.RIGHT),
 	TEXT("Bạn bè trong lớp có chê cười mình không"),
+	SPEAKER("Henry", sp_HenrySad, PORTRAIT_SIDE.RIGHT),
 	TEXT("Hay mình thật sự không có năng lực"),
 
 	
 ];
 
 global.topics[$ "quote3"] = [
-	
+	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
 	TEXT("..."),
+	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Ôi chết mình lỡ va vào người ta rồi? Họ có sao không ta."),
+	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Em xin lỗi anh"),
+	SPEAKER("Henry",passer_by_Focus , PORTRAIT_SIDE.RIGHT),
 	TEXT("Đi không biết nhìn đường à, mắt để dưới chân à"),
+	SPEAKER("Henry", sp_HenrySad, PORTRAIT_SIDE.RIGHT),
 	TEXT("Em xin lỗi, em xin lỗi"),
+	SPEAKER("Henry", sp_HenrySad, PORTRAIT_SIDE.RIGHT),
 	TEXT("*Người ta nổi giận với mình rồi.*"),
+	SPEAKER("Henry", sp_HenrySad, PORTRAIT_SIDE.RIGHT),
 	TEXT("*Chết dỡ, làm sao để người ta hạ giận đây*"),
+	SPEAKER("Henry", sp_HenrySad, PORTRAIT_SIDE.RIGHT),
 	TEXT("*Mình ghét bản thân mình*"),
+	SPEAKER("Henry", sp_HenrySad, PORTRAIT_SIDE.RIGHT),
 	TEXT("*Sao lại không chú ý hơn vậy?*"),
+	SPEAKER("Henry", sp_HenrySad, PORTRAIT_SIDE.RIGHT),
 	TEXT("*Ngu quá*"),
 	
 ];
