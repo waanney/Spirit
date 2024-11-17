@@ -28,10 +28,12 @@
     {"name":"inst_7C0BC60","path":"rooms/rm_school3/rm_school3.yy",},
     {"name":"inst_5828AE06","path":"rooms/rm_school3/rm_school3.yy",},
     {"name":"inst_7D183EAF","path":"rooms/rm_school3/rm_school3.yy",},
+    {"name":"inst_26DD2399","path":"rooms/rm_school3/rm_school3.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"$GMRInstance":"v1","%Name":"inst_26DD2399","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_26DD2399","objectId":{"name":"Object82","path":"objects/Object82/Object82.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.3833337,"scaleY":2.383334,"x":992.0,"y":672.0,},
         {"$GMRInstance":"v1","%Name":"inst_D2502B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_D2502B","objectId":{"name":"oRoomGoTo_Home10","path":"objects/oRoomGoTo_Home10/oRoomGoTo_Home10.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.5,"scaleY":2.0,"x":1056.0,"y":640.0,},
         {"$GMRInstance":"v1","%Name":"inst_12B5A04F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":true,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_12B5A04F","objectId":{"name":"oHenry_player","path":"objects/oHenry_player/oHenry_player.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":512.0,"y":224.0,},
         {"$GMRInstance":"v1","%Name":"inst_4112A2D9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4112A2D9","objectId":{"name":"oWall","path":"objects/oWall/oWall.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":2.2,"x":139.0,"y":275.0,},

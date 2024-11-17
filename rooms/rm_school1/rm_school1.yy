@@ -28,10 +28,12 @@
     {"name":"inst_5C3D7066","path":"rooms/rm_school1/rm_school1.yy",},
     {"name":"inst_F892E3C","path":"rooms/rm_school1/rm_school1.yy",},
     {"name":"inst_7DF9CCCE","path":"rooms/rm_school1/rm_school1.yy",},
+    {"name":"inst_5B32ACDE","path":"rooms/rm_school1/rm_school1.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"$GMRInstance":"v1","%Name":"inst_5B32ACDE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5B32ACDE","objectId":{"name":"Object82","path":"objects/Object82/Object82.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.3833337,"scaleY":2.383334,"x":992.0,"y":672.0,},
         {"$GMRInstance":"v1","%Name":"inst_6B7B792A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6B7B792A","objectId":{"name":"o_topic2","path":"objects/o_topic2/o_topic2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":928.0,"y":-64.0,},
         {"$GMRInstance":"v1","%Name":"inst_103D54D2","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_103D54D2","objectId":{"name":"oRoomGoTo_Home2","path":"objects/oRoomGoTo_Home2/oRoomGoTo_Home2.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":2.0,"x":1024.0,"y":640.0,},
         {"$GMRInstance":"v1","%Name":"inst_2AEE0018","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2AEE0018","objectId":{"name":"oWall","path":"objects/oWall/oWall.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.0,"scaleY":2.2,"x":139.0,"y":275.0,},
