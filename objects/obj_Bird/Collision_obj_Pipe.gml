@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-room_goto(r_hall5);
+room_goto(r_hall5_1);
 layer_destroy("Instances");
 instance_create_depth(517,262,-1,oHenry_player);
 

@@ -31,6 +31,7 @@
     {"name":"inst_2202898C","path":"rooms/rm_school2/rm_school2.yy",},
     {"name":"inst_562E1F89","path":"rooms/rm_school2/rm_school2.yy",},
     {"name":"inst_72E3E893","path":"rooms/rm_school2/rm_school2.yy",},
+    {"name":"inst_BEAE9F","path":"rooms/rm_school2/rm_school2.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -60,6 +61,7 @@
         {"$GMRInstance":"v1","%Name":"inst_6AB9BB4A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6AB9BB4A","objectId":{"name":"oWall","path":"objects/oWall/oWall.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":16.0,"scaleY":0.5,"x":0.0,"y":768.0,},
         {"$GMRInstance":"v1","%Name":"inst_2202898C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2202898C","objectId":{"name":"oWall","path":"objects/oWall/oWall.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":2.2,"scaleY":1.4,"x":256.0,"y":320.0,},
         {"$GMRInstance":"v1","%Name":"inst_562E1F89","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_562E1F89","objectId":{"name":"oWall","path":"objects/oWall/oWall.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.2,"scaleY":1.4,"x":511.99997,"y":288.0,},
+        {"$GMRInstance":"v1","%Name":"inst_BEAE9F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_BEAE9F","objectId":{"name":"oHenry_player","path":"objects/oHenry_player/oHenry_player.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.3,"scaleY":3.3,"x":305.0,"y":452.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"","%Name":"graphic_B9E16F0","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_B9E16F0","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":4.0,"scaleY":5.0,"spriteId":{"name":"Friend1","path":"sprites/Friend1/Friend1.yy",},"x":224.0,"y":256.0,},
