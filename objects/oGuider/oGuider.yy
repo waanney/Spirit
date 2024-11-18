@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object82",
+  "%Name":"oGuider",
   "eventList":[],
   "managed":true,
-  "name":"Object82",
+  "name":"oGuider",
   "overriddenProperties":[],
   "parent":{
     "name":"materials",

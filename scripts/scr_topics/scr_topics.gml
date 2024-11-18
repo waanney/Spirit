@@ -35,9 +35,9 @@ global.topics[$ "quote2"] = [
 	SPEAKER("Henry", sp_HenrySad, PORTRAIT_SIDE.RIGHT),
 	TEXT("*Có Phải Mình ham chơi quá nên học tập bị kém đi không?*"),
 	SPEAKER("Henry", sp_HenrySad, PORTRAIT_SIDE.RIGHT),
-	TEXT("Bạn bè trong lớp có chê cười mình không"),
+	TEXT("*Bạn bè trong lớp có chê cười mình không*"),
 	SPEAKER("Henry", sp_HenrySad, PORTRAIT_SIDE.RIGHT),
-	TEXT("Hay mình thật sự không có năng lực"),
+	TEXT("*Hay mình thật sự không có năng lực*"),
 
 	
 ];
@@ -46,7 +46,7 @@ global.topics[$ "quote3"] = [
 	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
 	TEXT("..."),
 	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
-	TEXT("Ôi chết mình lỡ va vào người ta rồi? Họ có sao không ta."),
+	TEXT("*Ôi chết mình lỡ va vào người ta rồi? Họ có sao không ta.*"),
 	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Em xin lỗi anh"),
 	SPEAKER("passer-by",passer_by_Focus , PORTRAIT_SIDE.RIGHT),
@@ -76,11 +76,11 @@ global.topics[$ "quote4"] = [
 	SPEAKER("John", Friend2focus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Sao mày chửi tao"),
 	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
-	TEXT("Không biết có chuyện gì đã xảy ra giữa hai bạn ấy nhỉ"),
+	TEXT("*Không biết có chuyện gì đã xảy ra giữa hai bạn ấy nhỉ*"),
 	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
-	TEXT("Mình có nên đứng ra làm người hòa giải không nhỉ"),
+	TEXT("*Mình có nên đứng ra làm người hòa giải không nhỉ*"),
 	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
-	TEXT("Liệu sau này cả lớp còn hòa hợp với nhau không nhỉ"),
+	TEXT("*Liệu sau này cả lớp còn hòa hợp với nhau không nhỉ*"),
 	
 ];
 
@@ -113,7 +113,7 @@ global.topics[$ "quote7"] = [
 ];
 
 global.topics[$ "quote7_1"] = [
-	TEXT("Sao Khi Thuyết Trình"),
+	TEXT("Sau Khi Thuyết Trình"),
 	TEXT("Mọi người vỗ tay tán thưởng"),
 	SPEAKER("Henry", sp_Henryhappy, PORTRAIT_SIDE.RIGHT),
 	TEXT("Cảm Ơn mọi người nhiều lắm. Cảm ơn mọi người"),
@@ -136,12 +136,14 @@ global.topics[$ "quote9"] = [
 	TEXT("Tao cũng muốn thành người giàu."),
 	SPEAKER("Max", Friend1focus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Tao mà không chơi với mày thì chắc giờ tao giàu rồi. =) "),
+	TEXT("À mà hôm nay mày phải về sớm phải không ?"),
 	SPEAKER("Max", Friend1focus, PORTRAIT_SIDE.RIGHT),
-	TEXT("Nó nói thế nghĩa là gì nhỉ? "),
+	TEXT("Đúng rồi, thôi, tao đi trước đây"),
+	TEXT("*Nó nói thế nghĩa là gì nhỉ?*"),
 	SPEAKER("Henry", sp_HenrySad, PORTRAIT_SIDE.RIGHT),
-	TEXT("Liệu mình có làm gì sai khiến nó buồn không? "),
+	TEXT("*Liệu mình có làm gì sai khiến nó buồn không?*"),
 	SPEAKER("Henry", sp_HenrySad, PORTRAIT_SIDE.RIGHT),
-	TEXT("Mình có đang kéo nó xuống? Hay là nó đang đùa? "),
+	TEXT("*Mình có đang kéo nó xuống? Hay là nó đang đùa?*"),
 	
 ];
 
