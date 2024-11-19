@@ -39,6 +39,7 @@ y += ySpeed;
 // pause the game
 event_inherited();
 
+instance_destroy(oHenry_player);
 
 
 
