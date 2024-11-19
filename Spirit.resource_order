@@ -49,10 +49,10 @@
     {"name":"Tile Sets","order":1,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":13,"path":"folders/Timelines.yy",},
     {"name":"transitionrooms","order":9,"path":"folders/transitionrooms.yy",},
-    {"name":"spriteRoomtransition","order":6,"path":"folders/transitionrooms/spriteRoomtransition.yy",},
     {"name":"sequences","order":5,"path":"folders/transitionrooms/sequences.yy",},
     {"name":"Roomtransitions","order":4,"path":"folders/transitionrooms/sequences/Roomtransitions.yy",},
     {"name":"transitions","order":5,"path":"folders/transitionrooms/sequences/transitions.yy",},
+    {"name":"spriteRoomtransition","order":6,"path":"folders/transitionrooms/spriteRoomtransition.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"fnt_menu","order":2,"path":"fonts/fnt_menu/fnt_menu.yy",},

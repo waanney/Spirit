@@ -99,7 +99,9 @@ global.topics[$ "quote6"] = [
 
 global.topics[$ "quote7"] = [
 	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
-	TEXT("Mai là thuyết trình rồi. Dù chuẩn bị đủ rồi nhưng mình vẫn hồi hộp quá."),
+	TEXT("Mai là thuyết trình rồi."),
+	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
+	TEXT("Dù chuẩn bị đủ rồi nhưng mình vẫn hồi hộp quá."),
 	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Không biết mai máy tính có hư đột ngột không."),
 	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
@@ -136,9 +138,11 @@ global.topics[$ "quote9"] = [
 	TEXT("Tao cũng muốn thành người giàu."),
 	SPEAKER("Max", Friend1focus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Tao mà không chơi với mày thì chắc giờ tao giàu rồi. =) "),
+	SPEAKER("Henry", sp_HenrySad, PORTRAIT_SIDE.RIGHT),
 	TEXT("À mà hôm nay mày phải về sớm phải không ?"),
 	SPEAKER("Max", Friend1focus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Đúng rồi, thôi, tao đi trước đây"),
+	SPEAKER("Henry", sp_HenrySad, PORTRAIT_SIDE.RIGHT),
 	TEXT("*Nó nói thế nghĩa là gì nhỉ?*"),
 	SPEAKER("Henry", sp_HenrySad, PORTRAIT_SIDE.RIGHT),
 	TEXT("*Liệu mình có làm gì sai khiến nó buồn không?*"),
