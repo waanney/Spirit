@@ -1,7 +1,7 @@
 
 // action
 if (keyboard_check(vk_space)) { 
-		forceUp = -1.5;
+		forceUp = -2;
 	}
 
 

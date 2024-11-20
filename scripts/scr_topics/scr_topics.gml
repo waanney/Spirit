@@ -1,11 +1,11 @@
 global.topics = {};
 
 global.topics[$ "quote1"] = [
-	SPEAKER("U", NPC1_focus, PORTRAIT_SIDE.RIGHT),
+	SPEAKER("Mom", NPC1_focus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Này, Sáng Rồi Đấy, Mau Dậy Đi Học Đi"),
 	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Cho Con Thêm 5 Phút Nữa Đi"),
-	SPEAKER("U", NPC1_focus, PORTRAIT_SIDE.RIGHT),
+	SPEAKER("Mom", NPC1_focus, PORTRAIT_SIDE.RIGHT),
 	TEXT("5 Phút Cái Gì, Mau Đi Học Không Tao Vô Đánh Đấy"),
 	SPEAKER("Henry", sp_HenrySad, PORTRAIT_SIDE.RIGHT),
 	TEXT("..."),
@@ -24,9 +24,9 @@ global.topics[$ "quote1"] = [
 
 
 global.topics[$ "quote2"] = [
-	SPEAKER("Cô",TC_focus,PORTRAIT_SIDE.RIGHT),
+	SPEAKER("Teacher",TC_focus,PORTRAIT_SIDE.RIGHT),
 	TEXT("Cô Phát Điểm Quiz Nha Mấy Đứa"),
-	SPEAKER("Cô",TC_focus,PORTRAIT_SIDE.RIGHT),
+	SPEAKER("Teacher",TC_focus,PORTRAIT_SIDE.RIGHT),
 	TEXT("Henry Chú ý Học Lại Nha Em"),
 	SPEAKER("Henry", sp_henryfocus, PORTRAIT_SIDE.RIGHT),
 	TEXT("Dạ vâng ạ"),
